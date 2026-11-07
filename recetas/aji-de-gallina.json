@@ -1,0 +1,25 @@
+{
+  "id": "aji-de-gallina",
+  "titulo": "Ají de gallina",
+  "subtitulo": "Pollo deshilachado en crema de ají amarillo.",
+  "imagenUrl": null,
+  "porciones": 4,
+  "ingredientes": [
+    "500 g de pechuga de pollo",
+    "1 cebolla picada",
+    "2 dientes de ajo",
+    "3 cucharadas de pasta de ají amarillo",
+    "3 rebanadas de pan",
+    "200 ml de leche evaporada",
+    "250 ml de caldo de pollo",
+    "30 g de parmesano rallado",
+    "Aceite, sal y pimienta"
+  ],
+  "preparacion": [
+    "Cocina la pechuga en agua, deshiláchala y reserva parte del caldo.",
+    "Remoja el pan en la leche y licúalo con el caldo.",
+    "Sofríe cebolla y ajo. Agrega el ají amarillo y cocina unos minutos.",
+    "Incorpora el pan licuado y cocina a fuego bajo, removiendo hasta espesar.",
+    "Añade el pollo y el parmesano. Ajusta la sal y sirve con arroz o papa cocida."
+  ]
+}

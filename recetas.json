@@ -1,0 +1,26 @@
+[
+  {
+    "id": "aji-de-gallina",
+    "titulo": "Ají de gallina",
+    "subtitulo": "Pollo deshilachado en crema de ají amarillo.",
+    "imagenUrl": null
+  },
+  {
+    "id": "lomo-saltado",
+    "titulo": "Lomo saltado",
+    "subtitulo": "Carne salteada con cebolla, tomate y papas fritas.",
+    "imagenUrl": null
+  },
+  {
+    "id": "causa-limena",
+    "titulo": "Causa limeña",
+    "subtitulo": "Capas de papa amarilla sazonadas con limón y ají.",
+    "imagenUrl": null
+  },
+  {
+    "id": "arroz-con-pollo",
+    "titulo": "Arroz con pollo",
+    "subtitulo": "Arroz al culantro con pollo y verduras.",
+    "imagenUrl": null
+  }
+]

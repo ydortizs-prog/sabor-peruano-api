@@ -1,0 +1,24 @@
+{
+  "id": "arroz-con-pollo",
+  "titulo": "Arroz con pollo",
+  "subtitulo": "Arroz al culantro con pollo y verduras.",
+  "imagenUrl": null,
+  "porciones": 4,
+  "ingredientes": [
+    "4 presas de pollo",
+    "2 tazas de arroz",
+    "1 taza de hojas de culantro",
+    "1 cebolla picada",
+    "2 dientes de ajo",
+    "2 cucharadas de pasta de ají amarillo",
+    "3 tazas de caldo de pollo",
+    "1 taza de arvejas y zanahoria picada",
+    "Aceite, sal y pimienta"
+  ],
+  "preparacion": [
+    "Dora las presas sazonadas en una olla y retíralas.",
+    "Sofríe la cebolla, el ajo y el ají. Licúa el culantro con parte del caldo y agrégalo.",
+    "Añade el resto del caldo, las verduras y el pollo. Cocina hasta que el pollo esté casi listo.",
+    "Agrega el arroz y cocina tapado a fuego bajo hasta que el arroz esté tierno y el pollo cocido."
+  ]
+}

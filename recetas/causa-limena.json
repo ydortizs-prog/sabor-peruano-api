@@ -1,0 +1,23 @@
+{
+  "id": "causa-limena",
+  "titulo": "Causa limeña",
+  "subtitulo": "Capas de papa amarilla sazonadas con limón y ají.",
+  "imagenUrl": null,
+  "porciones": 4,
+  "ingredientes": [
+    "800 g de papa amarilla",
+    "2 cucharadas de pasta de ají amarillo",
+    "Jugo de 2 limones",
+    "2 cucharadas de aceite",
+    "250 g de pollo cocido y deshilachado",
+    "3 cucharadas de mayonesa",
+    "1 palta",
+    "Sal al gusto"
+  ],
+  "preparacion": [
+    "Hierve las papas hasta que estén tiernas, pélalas y prénsalas aún calientes.",
+    "Cuando el puré esté tibio, mézclalo con el ají, el limón, el aceite y la sal.",
+    "Mezcla el pollo con la mayonesa y corta la palta en láminas.",
+    "Arma capas de papa, palta, pollo y papa. Refrigera hasta servir."
+  ]
+}

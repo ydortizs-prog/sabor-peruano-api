@@ -1,0 +1,23 @@
+{
+  "id": "lomo-saltado",
+  "titulo": "Lomo saltado",
+  "subtitulo": "Carne salteada con cebolla, tomate y papas fritas.",
+  "imagenUrl": null,
+  "porciones": 4,
+  "ingredientes": [
+    "600 g de lomo de res en tiras",
+    "1 cebolla roja en gajos",
+    "2 tomates firmes en gajos",
+    "1 ají amarillo en tiras",
+    "3 cucharadas de sillao",
+    "2 cucharadas de vinagre",
+    "500 g de papas fritas",
+    "Aceite, culantro, sal y pimienta"
+  ],
+  "preparacion": [
+    "Seca y sazona la carne. Dórala por tandas en una sartén muy caliente.",
+    "Saltea la cebolla y el ají brevemente. Añade el tomate.",
+    "Devuelve la carne a la sartén y agrega el sillao y el vinagre.",
+    "Mezcla brevemente y sirve con papas fritas, arroz y culantro picado."
+  ]
+}
